@@ -75,7 +75,3 @@ I'm motivated by a strong desire for growth, both as a developer and as a person
 ### 🌟 Fun Fact
 
 I started my coding journey by developing gamemodes for GTA San Andreas' multiplayer platform—proof that passion and creativity can lead to incredible opportunities.
-
---- 
-
-Let me know if you'd like any tweaks! 😊
