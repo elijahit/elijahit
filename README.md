@@ -1,7 +1,3 @@
-Here's a polished and professional README for your GitHub profile based on your information:
-
----
-
 <h1 align="center">Hi 👋, I'm Gabriele Mario Tosto</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Italy</h3>
 
