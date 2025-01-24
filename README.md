@@ -36,6 +36,9 @@ Currently, I’m honing my backend development skills at **Flazio**, where I wor
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
   ![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=white)  
   ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
@@ -46,6 +49,8 @@ Currently, I’m honing my backend development skills at **Flazio**, where I wor
 
 - **Database & APIs**:  
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)  
+  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)  
   ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)  
   ![REST APIs](https://img.shields.io/badge/-REST%20APIs-02569B?style=flat)  
 
@@ -75,3 +80,5 @@ I'm motivated by a strong desire for growth, both as a developer and as a person
 ### 🌟 Fun Fact
 
 I started my coding journey by developing gamemodes for GTA San Andreas' multiplayer platform—proof that passion and creativity can lead to incredible opportunities.
+
+---
